@@ -1,5 +1,5 @@
 """Get dictionaries from other objects"""
-__author__ = 'thorwhalen'
+__author__ = 'tcw'
 
 import json
 
